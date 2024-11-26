@@ -1,0 +1,184 @@
+[
+    {
+        "nombre": "Bulbasaur",
+        "tipo": "Planta",
+        "nivel": 14,
+        "evolucion": {
+            "nivel_minimo": 16,
+            "nombre_evolucion": "Ivysaur"
+        }
+    },
+    {
+        "nombre": "Charmander",
+        "tipo": "Fuego",
+        "nivel": 5,
+        "evolucion": {
+            "nivel_minimo": 16,
+            "nombre_evolucion": "Charmeleon"
+        }
+    },
+    {
+        "nombre": "Squirtle",
+        "tipo": "Agua",
+        "nivel": 5,
+        "evolucion": {
+            "nivel_minimo": 16,
+            "nombre_evolucion": "Wartortle"
+        }
+    },
+    {
+        "nombre": "Pikachu",
+        "tipo": "El\u00e9ctrico",
+        "nivel": 12,
+        "evolucion": {
+            "nivel_minimo": 16,
+            "nombre_evolucion": "Raichu"
+        }
+    },
+    {
+        "nombre": "Jigglypuff",
+        "tipo": "Normal",
+        "nivel": 8,
+        "evolucion": {
+            "nivel_minimo": 20,
+            "nombre_evolucion": "Wigglytuff"
+        }
+    },
+    {
+        "nombre": "Meowth",
+        "tipo": "Normal",
+        "nivel": 10,
+        "evolucion": {
+            "nivel_minimo": 28,
+            "nombre_evolucion": "Persian"
+        }
+    },
+    {
+        "nombre": "Psyduck",
+        "tipo": "Agua",
+        "nivel": 14,
+        "evolucion": {
+            "nivel_minimo": 33,
+            "nombre_evolucion": "Golduck"
+        }
+    },
+    {
+        "nombre": "Machop",
+        "tipo": "Lucha",
+        "nivel": 16,
+        "evolucion": {
+            "nivel_minimo": 28,
+            "nombre_evolucion": "Machoke"
+        }
+    },
+    {
+        "nombre": "Geodude",
+        "tipo": "Roca",
+        "nivel": 11,
+        "evolucion": {
+            "nivel_minimo": 25,
+            "nombre_evolucion": "Graveler"
+        }
+    },
+    {
+        "nombre": "Gastly",
+        "tipo": "Fantasma",
+        "nivel": 13,
+        "evolucion": {
+            "nivel_minimo": 25,
+            "nombre_evolucion": "Haunter"
+        }
+    },
+    {
+        "nombre": "Onix",
+        "tipo": "Roca",
+        "nivel": 20
+    },
+    {
+        "nombre": "Cubone",
+        "tipo": "Tierra",
+        "nivel": 18,
+        "evolucion": {
+            "nivel_minimo": 28,
+            "nombre_evolucion": "Marowak"
+        }
+    },
+    {
+        "nombre": "Koffing",
+        "tipo": "Veneno",
+        "nivel": 14,
+        "evolucion": {
+            "nivel_minimo": 35,
+            "nombre_evolucion": "Weezing"
+        }
+    },
+    {
+        "nombre": "Rhyhorn",
+        "tipo": "Tierra",
+        "nivel": 22,
+        "evolucion": {
+            "nivel_minimo": 42,
+            "nombre_evolucion": "Rhydon"
+        }
+    },
+    {
+        "nombre": "Horsea",
+        "tipo": "Agua",
+        "nivel": 17,
+        "evolucion": {
+            "nivel_minimo": 32,
+            "nombre_evolucion": "Seadra"
+        }
+    },
+    {
+        "nombre": "Magikarp",
+        "tipo": "Agua",
+        "nivel": 5,
+        "evolucion": {
+            "nivel_minimo": 20,
+            "nombre_evolucion": "Gyarados"
+        }
+    },
+    {
+        "nombre": "Eevee",
+        "tipo": "Normal",
+        "nivel": 20,
+        "evolucion": {
+            "nivel_minimo": 20,
+            "nombre_evolucion": "Vaporeon"
+        }
+    },
+    {
+        "nombre": "Snorlax",
+        "tipo": "Normal",
+        "nivel": 30
+    },
+    {
+        "nombre": "Dratini",
+        "tipo": "Drag\u00f3n",
+        "nivel": 15,
+        "evolucion": {
+            "nivel_minimo": 30,
+            "nombre_evolucion": "Dragonair"
+        }
+    },
+    {
+        "nombre": "Mew",
+        "tipo": "Ps\u00edquico",
+        "nivel": 50
+    },
+    {
+        "nombre": "Mewtwo",
+        "tipo": "Ps\u00edquico",
+        "nivel": 70
+    },
+    {
+        "nombre": "Rodmar",
+        "tipo": "Agua",
+        "nivel": 4,
+        "evolucion": {
+            "nivel_minimo": 15,
+            "nombre_evolucion": "Ramdor"
+        }
+    }
+]

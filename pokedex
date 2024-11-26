@@ -1,0 +1,21 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+use Rodmar\Pokedex\Commands\AgregarPokemonCommand;
+use Rodmar\Pokedex\Commands\BuscarPokemonCommand;
+use Rodmar\Pokedex\Commands\EvolucionarPokemonCommand;
+use Rodmar\Pokedex\Commands\SubirNivelPokemonCommand;
+use Symfony\Component\Console\Application;
+use Rodmar\Pokedex\Commands\ListarPokemonCommand;
+
+$application = new Application('Pokédex CLI', '1.0.0');
+
+$application->add(new ListarPokemonCommand());
+$application->add(new BuscarPokemonCommand());
+$application->add(new EvolucionarPokemonCommand());
+$application->add(new SubirNivelPokemonCommand());
+$application->add(new AgregarPokemonCommand());
+
+$application->run();
